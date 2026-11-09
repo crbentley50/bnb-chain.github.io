@@ -15,3 +15,4 @@ title: "BSC FAQs"
 - [PropAMM Contract Interface Mismatch Compared to Ethereum](../propamm-contract-interface-mismatch-compared-to-ethereum.md)
 - [Reth node crash with ENOSPC: /data/blobstore reached ext4 directory-index limit](../reth-node-crash-with-enospc-datablobstore-reached-ext4-directory-index-limit.md)
 - [When is the deadline for the BSC v1.8.2 mainnet Jenner hardfork upgrade?](../when-is-the-deadline-for-the-bsc-v182-mainnet-jenner-hardfork-upgrade.md)
+- [Request for offline full block and transaction data](../request-for-offline-full-block-and-transaction-data.md)
