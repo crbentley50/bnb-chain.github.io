@@ -33,7 +33,7 @@ Many users don’t realize that cross-chain transfers are possible or easy. BNB 
 
 1. Visit [bnbchain.org/en/bnb-chain-bridge](https://www.bnbchain.org/en/bnb-chain-bridge).
 2. Choose your **source chain** (e.g. Ethereum) and **destination chain** (e.g. BNB Chain).
-3. Connect your wallet to source chain.
+3. Connect your wallet to the source chain.
 4. Choose a token to bridge and enter the amount.
 5. The bridge tool will display **available routes** based on your token and chains.
 6. Click **Send** (or **Approve** if required).
@@ -62,8 +62,8 @@ GitHub: [github.com/bnb-chain/canonical-bridge](https://github.com/bnb-chain/can
 * Embed cross-chain bridging into any website.
 * Supports the same 6 route providers.
 * React component + config options.
-* Supports custom networks, tokens, style.
-* Supports other chain to other chain transfer (e.g. Ethereum to Base)
+* Supports custom networks, tokens, and styles.
+* Supports other-chain-to-other-chain transfers (e.g. Ethereum to Base)
 
 ### Use Cases
 
